@@ -1,0 +1,547 @@
+body {
+    background:  linear-gradient(to right, #fe8c00,  #f83600); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nama {
+    
+    color: #2e0000;
+    position: absolute;
+width: 462px;
+height: 58px;
+left: 13px;
+top: 450px;
+
+font-family: "Century Gothic", Arial;
+
+font-weight: 700;
+font-size: 48px;
+line-height: 58px;
+}
+img {
+    position: absolute;
+    width: 538px;
+    height: 538px;
+    left: 8px;
+    top: 8px;
+    border-radius: 20px;
+}
+.kotak-kiri {
+    flex-direction: column;
+width: 538px;
+height: 900px;
+left: 12px;
+top: 19px;
+
+background:  linear-gradient(to right, #ff0000,  #771d32);
+border-radius: 25px;
+}
+ .wik {
+    position: absolute;
+    width: 300px;
+    height: 30px;
+    left: 81px;
+    top: 750px;
+    font-size: 25px;
+ }
+ .seko{
+    width: 50px;
+    height: 50px;
+    left: 20px;
+    top: 765px;
+    font-size: 25px;
+
+ }
+
+ .rumah {
+    position: absolute;
+width: 300px;
+height: 30px;
+left: 81px;
+top: 600px;
+font-size: 25px;
+
+
+ }
+.rumahas{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 20px;
+    top: 610px;
+
+}
+ .email {
+position: absolute;
+width: 300px;
+height: 30px;
+left: 81px;
+top: 650px;
+font-size: 25px;
+ }
+.gmail {
+    position: absolute;
+width: 35px;
+height: 35px;
+left: 28px;
+top: 670px;
+font-size: 25px;
+}
+ .nomorwa {
+  position: absolute;
+  left: 81px;
+  top: 700px;
+font-size: 25px
+;
+ }
+ .wa {
+    width: 35px;
+height: 35px;
+left: 28px;
+top: 725px;
+font-size: 25px;
+ }
+
+ .kotakkanan {
+    
+  position: absolute;  
+  width: 800px;
+  height: 460px;
+  left: 572px;
+  top: 15px;
+  
+  background:  linear-gradient(to right, #ff0000,  #771d32);
+  border-radius: 20px;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+
+
+ }
+.persenttidur {
+    position: absolute;
+width: 448px;
+height: 21px;
+left: 109px;
+top: 156px;
+
+background: #6C0000;
+border-radius: 30px;
+}
+
+
+  .persentidur {
+    position: absolute;
+width: 498px;
+height: 21px;
+left: 109px;
+top: 156px;
+
+background: #FFFFFF;
+border-radius: 30px;
+  }
+
+  .nontonanime {
+    position: absolute;
+width: 498px;
+height: 21px;
+left: 109px;
+top: 250px;
+
+background: #FFFFFF;
+border-radius: 30px;
+
+  }
+
+  .persenanime {
+
+    position: absolute;
+    width: 319px;
+    height: 21px;
+    left: 109px;
+
+    top: 250px;
+    
+    background: #6C0000;
+    border-radius: 30px;
+  }
+
+  .baca {
+    position: absolute;
+width: 498px;
+height: 21px;
+left: 111px;
+top: 367px;
+
+background: #FFFFFF;
+border-radius: 30px;
+  }
+
+  .persenbaca {
+    position: absolute;
+width: 205px;
+height: 21px;
+left: 111px;
+top: 367px;
+
+background: #6C0000;
+border-radius: 30px;
+  }
+
+  .tidurr {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: absolute;
+width: 99px;
+height: 39px;
+left: 126px;
+top: 117px;
+  }
+
+  .nonton {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: absolute;
+width: 254px;
+height: 39px;
+left: 126px;
+top: 211px;
+  }
+  
+  .bacaan {
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: absolute;
+width: 417px;
+height: 39px;
+left: 126px;
+top: 326px;
+
+  }
+ 
+  .hobi {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2e0000;
+    position: absolute;
+width: 142px;
+height: 48px;
+left: 300px;
+top: 29px;
+  }
+
+  .kotakkananbawah {
+    position: absolute;
+width: 847px;
+height: 410px;
+left: 572px;
+top: 499px;
+
+background:  linear-gradient(to left, #ff0000,  #771d32);
+border-radius: 25px;
+  }
+
+  .webbuat { color: #450000;
+font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 180px;
+
+  }
+
+  .webper {
+    position: absolute;
+width: 307px;
+height: 173px;
+left: 47px;
+top: 130px;
+  }
+
+  .wikram {
+    position: absolute;
+width: 307px;
+height: 173px;
+left: 467px;
+top: 130px;
+  }
+
+  .butper {
+    position: absolute;
+width: 234px;
+height: 49px;
+left: 76px;
+top: 330px;
+
+background: linear-gradient(to top, #f12711,  #f5af19);
+border-radius: 30px;
+  }
+
+  .butwik {
+    
+    position: absolute;
+width: 234px;
+height: 49px;
+left: 513px;
+top: 330px;
+
+background: linear-gradient(to top, #f12711,  #f5af19);
+border-radius: 30px;
+  }
+.visit1 {
+    font-size: 30px;
+    position: absolute;
+    left: 115px;
+    top: 305px;
+}
+  .visit2{
+    font-size: 30px;
+    position: absolute;
+    left: 550px;
+    top: 305px;
+  }
+   
+  .spotify {
+    position: absolute;
+width: 63px;
+height: 63px;
+left: 41px;
+top: 835px;
+  }
+
+  .instagram {
+    position: absolute;
+width: 63px;
+height: 63px;
+left: 240px;
+top: 835px;
+  }
+
+  .fb {
+    position: absolute;
+width: 63px;
+height: 63px;
+left: 450px;
+top: 835px;
+  }
+  
+  @media screen and (max-width:360px){
+    .body {
+        
+      
+    }
+.kotak-kiri { 
+        padding-right: -10000px;
+        position: absolute;
+        width: 1450px;
+        top: 0px;
+        left: 0px;
+        height: 3000px;
+        border-radius: 0px;
+
+    }
+    .gib{
+        position: absolute;
+        left: 0px;
+        width: 1450px;
+        height: 1450px;
+    }
+
+    .nama {
+        left: 40px;
+        top: 1290px;
+        font-size: 140px;
+        width: 1400px;
+        height: 100px;
+    }
+
+.rumahas {
+        position: absolute;
+        left: 50px;
+        top: 1500px;
+        width: 200px;
+        height: 200px;
+    }
+    .rumah {
+        font-size: 110px;
+        width: 1000px;
+        top: 1390px;
+        left: 250px;
+    }
+
+.gmail {
+        width: 150px;
+        height: 150px;
+        left: 70px;
+        top: 1860px;
+    }
+    .email {
+        font-size: 80px;
+        width: 1000px;
+        height: 100px;
+        left: 230px;
+        top: 1800px;
+    }
+
+.seko {
+        width: 300px;
+        height: 300px;
+        left: 0px;
+        top: 2050px;
+    }
+    .wik {
+        font-size: 100px;
+        width: 1400px;
+        left: 250px;
+        top: 2060px;
+    }
+    .nomorwa{
+        font-size: 120px;
+        top: 2319px;
+        left: 240px;
+    }
+.wa {
+    width: 170px ;
+    height: 170px;
+    left: 50px;
+    top: 2420px;
+}
+
+.spotify {
+    width: 160px;
+    height: 160px;
+    left: 20px;
+    top: 2800px;
+}
+.instagram {
+    width: 150px;
+    height: 150px;
+    left: 640px;
+    top: 2800px;
+}
+.fb {
+    width: 160px;
+    height: 160px;
+    left: 1190px;
+    top: 2800px;
+}
+
+	
+.kotakkanan{	
+            left: 0px;
+            top: 3006px;
+            width: 1450px;
+            height: 2000px;
+            border-radius: 0px;
+        }	
+        .hobi{
+            font-size: 200px;
+        }
+        .persentidur {
+            left: 80px;
+            top: 600px;
+            width: 1300px;
+            height: 60px;
+        }
+        .persenttidur{
+            left: 80px;
+            top: 600px;
+            width: 1100px;
+            height: 60px;
+        }
+        .tidurr{
+            font-size: 110px;
+            top: 325px;
+            left: 90px;
+        }
+    .nonton {
+            font-size: 110px;
+            top: 800px;
+            width: 1400px;
+            left: 90px;
+        }
+        .nontonanime {
+            width: 1300px;
+            height: 60px;
+            left: 80px;
+            top: 1050px;
+        }
+        .persenanime{
+            width: 1000px; 
+            height: 60px;    
+            left: 80px;
+            top: 1050px;
+         }
+
+    .bacaan{
+      font-size: 110px;
+      left: 90px;
+      top: 1300px;
+      width: 1400px;
+    }
+    .baca {
+        width: 1300px;
+        height: 60px;
+        left: 80px;
+        top: 1560px;
+    }
+    .persenbaca {
+        height: 60px;
+        width: 700px;
+        left: 80px;
+        top: 1560px;
+    }
+
+	.kotakkananbawah {
+        width: 1450px;
+        height: 3000px;
+        left: 0px;
+        top: 5000px;
+        border-radius: 0px;
+    }
+	
+    .webbuat {
+        font-size: 150px;
+    
+    }
+
+    .webper {
+        position: absolute;
+        width: 1300px;
+        height: 800px;
+        left: 70px;
+        top: 590px;
+    }
+  
+    
+    .butper {
+        position: absolute;
+        width: 800px;
+        height: 200px;
+        border-radius: 100px;
+        top: 1500px;
+        left: 300px;
+        
+    } 
+     .visit1{
+        font-size: 130px;
+        position: absolute;
+        left: 350px;
+            top: 1390px;}
+    .wikram {
+        position: absolute;
+        width: 1300px;
+        height: 700px;
+        left: 80px;
+        top: 1900px;
+    }
+    .butwik {
+        position: absolute;
+        width: 800px;
+        height: 200px;
+        border-radius: 100px;
+        left: 300px;
+        top: 2700px;
+    }
+
+    .visit2 {
+        position: absolute;
+        font-size: 130px;
+        left: 350px;
+        top: 2590px;
+    }
+}
